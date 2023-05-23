@@ -37,7 +37,7 @@ class Axios {
         }
     }
 
-    async post(type = "", url, data) {
+    async post(url, data) {
 
         try {
             var config = {
