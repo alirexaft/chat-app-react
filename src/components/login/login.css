@@ -16,12 +16,12 @@
 .container {
     position: relative;
     width: 350px;
-    height: 500px;
+    height: 450px;
     border-radius: 20px;
     padding: 40px;
     box-sizing: border-box;
     /*background: #ecf0f3;*/
-    background: #25444d;
+    background: #85b0ff;
     /*box-shadow: 14px 14px 20px #cbced1, -14px -14px 20px white;*/
     /*box-shadow: 8px 8px 10px #cbced1, -8px -8px 10px white;*/
 }
@@ -30,7 +30,7 @@
 
 .inputs {
     text-align: left;
-    margin-top: 30px;
+    margin-top: 35px;
 }
 
 
