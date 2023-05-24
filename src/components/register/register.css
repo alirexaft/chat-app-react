@@ -15,8 +15,8 @@
 
 .container {
     position: relative;
-    width: 450px;
-    height: 650px;
+
+    min-height: 500px;
     border-radius: 20px;
     padding: 40px;
     box-sizing: border-box;

@@ -31,7 +31,7 @@ const Register = () => {
 
     return <div className={'body'}>
         <div className={'container'}>
-            <h1>Login</h1>
+            <h1>Register</h1>
         <Form onFinish={onFinish}>
             <Form.Item name={"username"}
                        rules={[
@@ -75,7 +75,7 @@ const Register = () => {
             </Form.Item>
 
             <Form.Item>
-            <Button htmlType="submit" type={"primary"} style={{marginTop: "55px", width: "30%", backgroundColor: "#000000"}}>Submit</Button>
+            <Button htmlType="submit" type={"primary"} style={{marginTop: "5px", width: "30%", backgroundColor: "#000000"}}>Submit</Button>
             </Form.Item>
 
         </Form>
